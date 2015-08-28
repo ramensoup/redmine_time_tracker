@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/hicknhack-software/redmine_time_tracker.png?branch=master)](https://travis-ci.org/hicknhack-software/redmine_time_tracker)
 
 # Redmine Time Tracker plugin
+## Important: this plugin works with redmine 3.1.0 but isn't fully tested
 
 _Note:_ We are working on a complete rewrite of this plugin. Checkout this issue for more infos: [#194](https://github.com/hicknhack-software/redmine_time_tracker/issues/194)
 
@@ -33,15 +34,9 @@ Most current version is available at: [GitHub](https://github.com/hicknhack-soft
 
 ## Requirements
 * Redmine one of (see travis.yml)
-  * Version 2.4.0
-  * Version 2.4.5
-  * Version 2.5.0
-  * Version 2.5.1
-  * Version 2.6.0
+  * Version 3.1.0
 * Ruby one of
-  * Version 1.9.3
-  * Version 2.0.0
-  * Version 2.1.1
+  * Version 2.2.0
 
 ## Install
 
